@@ -1,4 +1,4 @@
-# NitroGenX
+# Nitro Generator
 Fast and stable nitro generator + checker
 
 Stable Settings:
