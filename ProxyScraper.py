@@ -42,5 +42,5 @@ except:
  pass
 print("> Proxy List Downloaded as proxies.txt")
 #ndbiaw end
-input("Press Anykey to exit...")
+input("Press Any Key to exit...")
 exit()
